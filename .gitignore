@@ -1,0 +1,12 @@
+thread.*
+APPS/
+PREEMPTIVE/libprethreat.a
+PREEMPTIVE/makefile
+PREEMPTIVE/README
+PREEMPTIVE/sem.c
+PREEMPTIVE/sem.h
+PREEMPTIVE/thread.c
+libthread.a
+core
+makefile
+README
